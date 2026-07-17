@@ -5,3 +5,5 @@ Vercel: prj_tmG2U8cwz8A36i8RJU4r0nlYzZXJ
 Railway: 7841a124-f922-4fe0-937d-eca9cd1ee50d
 Billing: 
 Billing: price_1TuAG42c9uGCcgMSjLRMcdSs
+
+Landing: https://vokrix.co/smb-contractor-1099-readiness-w-9-collec
