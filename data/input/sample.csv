@@ -1,0 +1,5 @@
+contractor_name,payment_total,w9_pdf_path
+Alice,2500,alice_w9.pdf
+Bob,1500,
+Charlie,3000,bob_w9.pdf
+Dave,500,charlie_w9.pdf

@@ -1,0 +1,39 @@
+[
+  {
+    "contractor_name": "Alice",
+    "payment_total": 2500.0,
+    "w9_collected": true,
+    "w9_data": {
+      "contractor_name": "John Doe",
+      "tin": "123-45-6789"
+    },
+    "status": "above_threshold:critical"
+  },
+  {
+    "contractor_name": "Bob",
+    "payment_total": 1500.0,
+    "w9_collected": false,
+    "w9_data": null,
+    "status": "within_threshold:good"
+  },
+  {
+    "contractor_name": "Charlie",
+    "payment_total": 3000.0,
+    "w9_collected": true,
+    "w9_data": {
+      "contractor_name": "John Doe",
+      "tin": "123-45-6789"
+    },
+    "status": "above_threshold:critical"
+  },
+  {
+    "contractor_name": "Dave",
+    "payment_total": 500.0,
+    "w9_collected": true,
+    "w9_data": {
+      "contractor_name": "John Doe",
+      "tin": "123-45-6789"
+    },
+    "status": "w9_collected:good"
+  }
+]
